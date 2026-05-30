@@ -1,10 +1,14 @@
 # Legendary Palm Tree
 
 ## 项目简介
-Hermes Agent 扩展项目（GitHub: `12312ewqdq/legendary-palm-tree`）
+Hermes 相关项目。
+
+**GitHub:** https://github.com/12312ewqdq/legendary-palm-tree
+**远程:** `origin` → `ghfast.top` 代理（国内不可直连）
 
 ## 技术栈
 - Python 3
+- Hermes Agent 生态
 - Hermes Agent 插件/技能框架
 
 ## 项目结构
